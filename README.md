@@ -1,9 +1,9 @@
 # Python for Software Engineer 
 ## Guide to access Assignments' links
 
-Name: Nguyễn Tiến Đức.
-Student ID: 22MSE23059.
-Course: Python for Software Engineer.
+#### Name: Nguyễn Tiến Đức.
+#### Student ID: 22MSE23059.
+#### Course: Python for Software Engineer.
 
 In this document, you can find the links to access Exercises 1-3 and the final Assignment as below:
 - Exercise 1: Understand and take note of [One Tutorial to Understand All (M5-Forecasting) | Kaggle](https://www.kaggle.com/code/mubashir1/one-tutorial-to-understand-all-m5-forecasting) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BG7Ab7yRhLmAJ8zlCMHCyLZq7fw7DtNs?usp=sharing)
